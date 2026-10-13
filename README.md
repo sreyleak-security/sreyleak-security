@@ -36,3 +36,8 @@ After the June 2026 Polymarket frontend hack ($3.1M across 11 accounts — Polym
 >
 > *Educational content only. Not financial advice. Security is your responsibility. I am not affiliated with Polymarket. I will never DM you or ask for your keys.*
 > 
+
+
+## 🌐 Research Hub
+
+Security guides, anti-scam education, and research archive: **[BrainResearchHub](https://brainresearchhub.net)** — independent Polymarket research collective (perps mechanics, SDK, security, access, withdrawals).
